@@ -1,0 +1,3 @@
+#!/Users/roy.rajjyoti/Desktop/mlops_platform/dev_mlflow/bin/python3
+from numba.pycc import main
+main()

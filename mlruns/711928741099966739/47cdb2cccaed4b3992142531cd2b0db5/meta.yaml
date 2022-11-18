@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roy.rajjyoti/Desktop/mlops_platform/mlruns/711928741099966739/47cdb2cccaed4b3992142531cd2b0db5/artifacts
+end_time: 1668761378808
+entry_point_name: ''
+experiment_id: '711928741099966739'
+lifecycle_stage: active
+run_id: 47cdb2cccaed4b3992142531cd2b0db5
+run_name: Model_Training_Run_2
+run_uuid: 47cdb2cccaed4b3992142531cd2b0db5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668761375812
+status: 3
+tags: []
+user_id: roy.rajjyoti
